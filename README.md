@@ -6,15 +6,8 @@
 #### AFNetworking
 
 ```
-pod 'AFNetworking', :git => 'https://github.com/gzx543097079/AppStorePrivacyInfo.git', :tag => 'AFNetworking-4.0.1.1'
+pod 'AFNetworking', :git => 'https://github.com/yanmumama/AppStorePrivacyInfo.git', :tag => 'AFNetworking-4.0.1+PrivacyInfo'
 ```
-
-#### PureLayout
-
-```
-pod 'PureLayout', :git => 'https://github.com/gzx543097079/AppStorePrivacyInfo.git', :tag => 'PureLayout-3.1.9'
-```
-
 
 #### 另外在Demo中提供了本地集成的方式，验证可以正常发版本
 
